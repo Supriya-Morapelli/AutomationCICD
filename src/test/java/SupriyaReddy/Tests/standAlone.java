@@ -19,7 +19,7 @@ public class standAlone {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//demo purpose added
 		String productName="IPHONE 13 PRO";
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
